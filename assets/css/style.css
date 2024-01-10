@@ -6,11 +6,15 @@
 	font-weight: 400;
 	src: url('../../assets/fonts/dm-sans-v3-latin-regular.eot');
 	/* IE9 Compat Modes */
-	src: local('DM Sans Regular'), local('DMSans-Regular'), url('../../assets/fonts/dm-sans-v3-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-	url('../../assets/fonts/dm-sans-v3-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-	url('../../assets/fonts/dm-sans-v3-latin-regular.woff') format('woff'), /* Modern Browsers */
-	url('../../assets/fonts/dm-sans-v3-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-	url('../../assets/fonts/dm-sans-v3-latin-regular.svg#DMSans') format('svg');
+	src: local('DM Sans Regular'), local('DMSans-Regular'), url('../../assets/fonts/dm-sans-v3-latin-regular.eot?#iefix') format('embedded-opentype'),
+		/* IE6-IE8 */
+		url('../../assets/fonts/dm-sans-v3-latin-regular.woff2') format('woff2'),
+		/* Super Modern Browsers */
+		url('../../assets/fonts/dm-sans-v3-latin-regular.woff') format('woff'),
+		/* Modern Browsers */
+		url('../../assets/fonts/dm-sans-v3-latin-regular.ttf') format('truetype'),
+		/* Safari, Android, iOS */
+		url('../../assets/fonts/dm-sans-v3-latin-regular.svg#DMSans') format('svg');
 	/* Legacy iOS */
 	font-display: swap;
 }
@@ -24,11 +28,15 @@
 	font-weight: 400;
 	src: url('../../assets/fonts/great-vibes-v7-latin-regular.eot');
 	/* IE9 Compat Modes */
-	src: local('Great Vibes'), local('GreatVibes-Regular'), url('../../assets/fonts/great-vibes-v7-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-	url('../../assets/fonts/great-vibes-v7-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-	url('../../assets/fonts/great-vibes-v7-latin-regular.woff') format('woff'), /* Modern Browsers */
-	url('../../assets/fonts/great-vibes-v7-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-	url('../../assets/fonts/great-vibes-v7-latin-regular.svg#GreatVibes') format('svg');
+	src: local('Great Vibes'), local('GreatVibes-Regular'), url('../../assets/fonts/great-vibes-v7-latin-regular.eot?#iefix') format('embedded-opentype'),
+		/* IE6-IE8 */
+		url('../../assets/fonts/great-vibes-v7-latin-regular.woff2') format('woff2'),
+		/* Super Modern Browsers */
+		url('../../assets/fonts/great-vibes-v7-latin-regular.woff') format('woff'),
+		/* Modern Browsers */
+		url('../../assets/fonts/great-vibes-v7-latin-regular.ttf') format('truetype'),
+		/* Safari, Android, iOS */
+		url('../../assets/fonts/great-vibes-v7-latin-regular.svg#GreatVibes') format('svg');
 	/* Legacy iOS */
 	font-display: swap;
 }
@@ -87,8 +95,8 @@ body {
 .navlink {
 	color: #bf1962 !important;
 	text-decoration: none !important;
-	padding-right: 0.75rem !important;
-	padding-left: 0.75rem !important;
+	padding-right: 1rem !important;
+	padding-left: 1rem !important;
 	opacity: 1;
 }
 
@@ -228,6 +236,7 @@ body {
 	.leftcent {
 		text-align: center;
 	}
+
 	.rightcent {
 		text-align: center;
 	}
@@ -297,7 +306,7 @@ body {
 
 @media (max-width: 991.98px) {
 	.section-subheader {
-		font-size: 1.6rem;
+		font-size: 1.3rem;
 	}
 }
 
@@ -600,6 +609,7 @@ body {
 	#headercol {
 		border-bottom: 1px solid #bf1962;
 	}
+
 	#headercol2 {
 		/*
     display: flex;
@@ -678,12 +688,15 @@ body {
 		-ms-flex-pack: center;
 		justify-content: center;
 	}
+
 	.overlay {
 		opacity: 0;
 	}
+
 	.relativeimgbox:hover .overlay {
 		opacity: 1;
 	}
+
 	.amenicondiv {
 		width: 50px;
 		height: 50px;
@@ -705,6 +718,7 @@ body {
 		text-decoration: none;
 		cursor: pointer;
 	}
+
 	.amenicondiv:hover,
 	.amenicondiv:focus,
 	.amenicondiv:active {
@@ -713,6 +727,7 @@ body {
 		box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0) !important;
 		outline: none;
 	}
+
 	.amenicon {
 		font-size: 1.5rem;
 		color: #ffffff;
@@ -737,6 +752,7 @@ body {
 	.amencol {
 		padding: 0rem 0rem 0rem 0rem;
 	}
+
 	.amenarrowcol {
 		padding: 0rem;
 	}
@@ -766,6 +782,33 @@ body {
 	font-size: 1.15rem;
 	margin-top: 1.5rem;
 	margin-bottom: 1.5rem;
+}
+
+
+.amenities-icon {
+	color: #3e3e3e;
+	font-size: 4rem;
+	font-weight: bold;
+}
+
+.amenitiescard {
+	border-radius: 20px;
+	padding: 2rem 3rem 2rem 3rem;
+	background-color: transparent;
+	border: 0px solid transparent;
+	text-align: center;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-item-align: center;
+	align-self: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	box-shadow: 0px 0px 21px 6px rgba(228, 229, 230, 1);
 }
 
 @media (max-width: 991.98px) {}
@@ -969,7 +1012,7 @@ body {
 }
 
 .priceSpace {
-	padding-top: 2rem;
+	padding-top: 0rem;
 	padding-bottom: 0rem;
 }
 
@@ -1149,6 +1192,7 @@ body {
 		-ms-grid-row-align: center;
 		align-self: center;
 	}
+
 	.locadvicondiv {
 		position: absolute;
 		top: -50px;
@@ -1160,6 +1204,7 @@ body {
 	.locadvouter {
 		padding: 4rem 0rem 1rem 0rem;
 	}
+
 	.locadvicondiv {
 		position: absolute;
 		top: -50px;
@@ -1302,6 +1347,7 @@ body {
 	0% {
 		background-position: 100% 0%;
 	}
+
 	100% {
 		background-position: 0% 0%;
 	}
@@ -1311,6 +1357,7 @@ body {
 	0% {
 		background-position: 100% 0%;
 	}
+
 	100% {
 		background-position: 0% 0%;
 	}
@@ -1562,7 +1609,7 @@ body {
 	font-weight: 600;
 	opacity: 1;
 	letter-spacing: 0.14rem;
-    rgba(62, 62, 62, 0.6) !important;
+	rgba(62, 62, 62, 0.6) !important;
 	/*
   -webkit-animation-name: bluePulse;
   -webkit-animation-duration: 1s;
@@ -1626,4 +1673,30 @@ body {
 #youtubeiframe2,
 #youtubeiframe3 {
 	display: none;
+}
+
+.pricing-image-div {
+	padding: 1rem 3rem 1rem 3rem;
+}
+
+.pricing-image {
+	border-radius: 25px;
+}
+
+.controls-top {
+	margin-top: 10px;
+}
+
+.float-right {
+	float: right !important;
+}
+
+.btn-floating {
+	font-size: 50px !important;
+	color: #bf1962 !important;
+}
+
+.float-right a {
+	outline: none;
+	text-decoration: none;
 }
