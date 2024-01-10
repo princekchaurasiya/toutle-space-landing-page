@@ -1261,7 +1261,7 @@ body {
 /* about secabout */
 
 #secabout {
-	background-image: url("../../assets/images/jaswanti-woods-mulund-west-ashray-group-bg.jpg");
+	/* background-image: url("../../assets/images/jaswanti-woods-mulund-west-ashray-group-bg.jpg"); */
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -1333,7 +1333,7 @@ body {
 	position: absolute;
 	top: 0px;
 	left: 0px;
-	background-image: url("../../assets/images/jaswanti-woods-mulund-west-ashray-group-min.png");
+	/* background-image: url("../../assets/images/jaswanti-woods-mulund-west-ashray-group-min.png"); */
 	background-repeat: repeat-x;
 	background-size: contain;
 	background-position: 0% 0%;
