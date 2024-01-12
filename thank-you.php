@@ -60,7 +60,7 @@
           </h2>
 
           <p class="pb-5">
-            Thank you for your Toutle Space. We will call you back soon.
+            Thank you for your showing your interest Toutle Space. We will call you back soon.
           </p>
 
           <p class="">
