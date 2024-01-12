@@ -19,9 +19,9 @@
   <link rel="icon" type="image/png" href="assets/images/favicon.png">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
-  <meta name="author" content="Co Working Space in Mumbai">
+  <meta name="author" content="Toutle Space Mulund West">
 
-  <title>Thank You - Toutle Space Co Working Space in Malad West</title>
+  <title>Privacy Policy - Toutle Space Co Working Space in Mumbai</title>
 
   <!-- css links -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -37,46 +37,97 @@
       style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
-  <!--thank you navbar-->
+  <!--privacy policy navbar-->
   <nav class="navbar navz navbar-expand-lg fixed-top" id="scrollspynav">
     <a class="navbar-brand" href="./">
-      <img class="logo1" src="/assets/images/toutle-space-2.png" alt="Toutle Space Co Working Space in Mumbai"
-        title="Toutle Space Co Working Space in Mumbai">
+      <img class="logo1" src="./assets/images/toutle-space-2.png" alt="co working space in Malad West"
+        title="co working space in Goregaon West">
     </a>
 
   </nav>
-  <!-- end of thank you navbar -->
+  <!-- end of privacy policy navbar -->
 
-  <!--thank you section tyfssec1-->
-  <section class="" id="tyfssec1">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-12 text-center p-5">
-          <p>
-            <span class="icon-tick tyicon"></span>
-          </p>
-          <h2 class="section-subtext black-header pb-5">
-            Your Enquiry has been submitted.
-          </h2>
+  <!--privacy policy sec1-->
+  <section class="allsection" id="ppsec1">
+    <div class="container">
+      <div class="row justify-content-center">
 
-          <p class="pb-5">
-            Thank you for your Toutle Space. We will call you back soon.
-          </p>
-
-          <p class="">
-            You can get in touch with us at
-          </p>
-
-          <h3 class="pb-5">
-            <a class="otherpagenumlink" href="tel:+91-8652868816">+91-8652868816</a>
+        <div class="col-md-12 allcol">
+          <h3 class="text-center">
+            Toutle Space Privacy Policy
           </h3>
-
-
         </div>
+
+        <div class="col-md-10 allcol">
+          <p>
+            We respect your privacy and have outlined our policy below. By visiting our website, you agree to our
+            privacy policy.
+          </p>
+
+          <p>
+            <b>
+              Non personal information
+            </b>
+            <br>
+            We may collect non-personal identification information about Users when they visit our website. Non-personal
+            identification information may include the browser name, IP address, operating system, Internet service
+            providers and other similar information.
+          </p>
+
+          <p>
+            <b>
+              Cookies
+            </b>
+            <br>
+            Our site may use cookies to improve User Experience, and remember your preferences.
+          </p>
+
+          <p>
+            <b>
+              Personal Information Collected
+            </b>
+            <br>
+            We collect personal information only if you fill a form on our website to know more about our projects. The
+            type of personally identifiable information that may be collected by us include name, address, e-mail
+            address phone number. We do not sell your information.
+          </p>
+
+          <p>
+            <b>
+              Usage of Information
+            </b>
+            <br>
+            We may use the information collected on our site for
+          </p>
+
+          <ul>
+            <li>Marketing (Calls, SMS ,Emails) to provide information about our projects</li>
+            <li>Improve our site</li>
+            <li>To customize your experience on website</li>
+          </ul>
+
+          <p>
+            <b>
+              Third party sites
+            </b>
+            <br>
+            We are not responsible for any third party sites that you may go to from our website, whose links maybe
+            present on our website. Please read the Privacy policy of those websites.
+            <br>
+            We can update the privacy policy anytime.
+          </p>
+        </div>
+
+        <div class="col-md-12">
+          <div class="text-center">
+            <a class="btn btn-custom" href="./">GO BACK TO HOME PAGE</a>
+          </div>
+        </div>
+
       </div>
     </div>
   </section>
-  <!--end of thank you section tyfssec1-->
+  <!--end of privacy policy sec1-->
 
   <!-- footer -->
   <footer class="bg-footer">
@@ -84,7 +135,7 @@
       <div class="row align-self-center justify-content-center footer-text">
         <div class="col-lg-3 align-self-center halfcol">
           <div class="row justify-content-center">
-            <img class="img-fluid" src="assets/images/logo.png" alt="  Toutle Space " title="  Toutle Space  White Logo"
+            <img class="img-fluid" src="assets/images/logo.png" alt=" Toutle Space " title=" Toutle Space  White Logo"
               width="" height="">
           </div>
 

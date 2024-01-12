@@ -16,7 +16,7 @@ $qs = strip_tags(htmlspecialchars_decode($_POST['qsf3']));
 
 $formq = "name=".$name."&phone=".$phone."&formid=".$formid."&".$qs;
 
-$link = "https://hook.integromat.com/tf20mx5tpbep92jyqwgujz6v1g4kkfde/?";
+$link = "https://hook.eu2.make.com/xee231oalbl0s5w87b8alyqvfhpa4ean?";
 
 $flowq = $link.$formq;
 
@@ -31,12 +31,12 @@ function flowtrig($flowq)
 
   if(strpos( $response, "Accepted" ) !== false)
   {
-    header('Location: ./thank-you.html');
+    header('Location: ./thank-you.php');
     exit();
   }
   else
   {
-    header('Location: ./form-submit-failed.html');
+    header('Location: ./form-submit-failed.php');
     exit();
   }
 }
