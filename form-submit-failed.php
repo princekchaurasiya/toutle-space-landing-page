@@ -66,7 +66,7 @@
           </p>
 
           <h3 class="pb-5">
-            <a class="otherpagenumlink" href="tel:+91-8652868816"><span class="icon-col"></span>+91-8652868816</a>
+            <a class="otherpagenumlink" href="tel:+91-8652868765"><span class="icon-col"></span>+91-8652868765</a>
           </h3>
 
           <a href="./" class="btn btn-custom">GO BACK TO HOME PAGE</a>
@@ -117,7 +117,7 @@
         <div class="fixed-bottom d-block d-lg-none">
           <div id="stickymob">
             <div class="row stickybtn">
-              <a class="col stickycall text-center stickycol stickybdr" href="tel:+91-8652868816">
+              <a class="col stickycall text-center stickycol stickybdr" href="tel:+91-8652868765">
                 CALL NOW
               </a>
               <a class="col stickyenq text-center stickycol" href="" data-toggle="modal" data-target="#jwmodal">
