@@ -73,18 +73,18 @@
                <div id="bannercarousel" class="carousel slide" data-ride="carousel">
                   <div class="carousel-inner">
                      <div class="carousel-item active">
-                        <img loading=lazy class="d-lg-block d-none img-fluid h-100 w-100"
+                        <img class="d-lg-block d-none img-fluid h-100 w-100"
                            src="assets/images/toutle-space-desk-banner-6.png" alt="Co working space in Mumbai "
                            title="Toutle Space Desktop Banner">
-                        <img loading=lazy class="d-lg-none d-md-block img-fluid w-100"
+                        <img class="d-lg-none d-md-block img-fluid w-100"
                            src="assets/images/toutle-space-desk-banner-6.png" alt="Co working space in Mumbai "
-                           title="Toutle Space  Mobile Banner">
+                           title="Toutle Space Mobile Banner">
                      </div>
                      <div class="carousel-item ">
-                        <img loading=lazy class="d-lg-block d-none img-fluid h-100 w-100"
+                        <img class="d-lg-block d-none img-fluid h-100 w-100"
                            src="assets/images/toutle-space-desk-banner-5.png" alt="Co working space in Mumbai "
                            title="Toutle Space  Desktop Banner">
-                        <img loading=lazy class="d-lg-none d-md-block img-fluid w-100"
+                        <img class="d-lg-none d-md-block img-fluid w-100"
                            src="assets/images/toutle-space-desk-banner-5.png" alt="Co working space in Mumbai "
                            title="Toutle Space  Mobile Banner">
                      </div>
