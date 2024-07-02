@@ -68,7 +68,7 @@
           </p>
 
           <h3 class="pb-5">
-            <a class="otherpagenumlink" href="tel:+91-8652868765">+91-8652868765</a>
+            <a class="otherpagenumlink" href="tel:+91-9136698816">+91-9136698816</a>
           </h3>
 
 
@@ -118,7 +118,7 @@
         <div class="fixed-bottom d-block d-lg-none">
           <div id="stickymob">
             <div class="row stickybtn">
-              <a class="col stickycall text-center stickycol stickybdr" href="tel:+91-8652868765">
+              <a class="col stickycall text-center stickycol stickybdr" href="tel:+91-9136698816">
                 CALL NOW
               </a>
               <a class="col stickyenq text-center stickycol" href="" data-toggle="modal" data-target="#jwmodal">
