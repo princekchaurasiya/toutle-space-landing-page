@@ -149,8 +149,8 @@
                         </div>
                      </div>
                   </form>
-                  <p class="text-center mb-0 p-3"><a class="numlink" href="tel:+91-9136698816"><span
-                           class="icon-call pr-2"></span>+91-9136698816</a></p>
+                  <p class="text-center mb-0 p-3"><a class="numlink" href="tel:+91-8652868765"><span
+                           class="icon-call pr-2"></span>+91-8652868765</a></p>
                </div>
             </div>
          </div>
@@ -735,8 +735,8 @@
                            </div>
                         </div>
                      </form>
-                     <p class="text-center mb-0 p-3"><a class="numlink" href="tel:+91-9136698816"><span
-                              class="icon-call pr-2"></span>+91-9136698816</a></p>
+                     <p class="text-center mb-0 p-3"><a class="numlink" href="tel:+91-8652868765"><span
+                              class="icon-call pr-2"></span>+91-8652868765</a></p>
                   </div>
                </div>
             </div>
@@ -799,8 +799,8 @@
                            </div>
                         </div>
                      </form>
-                     <p class="text-center mb-0 p-2"><a class="numlink" href="tel:+91-9136698816"><span
-                              class="icon-call pr-2"></span>+91-9136698816</a></p>
+                     <p class="text-center mb-0 p-2"><a class="numlink" href="tel:+91-8652868765"><span
+                              class="icon-call pr-2"></span>+91-8652868765</a></p>
                   </div>
                </div>
             </div>
@@ -851,7 +851,7 @@
             <div class="fixed-bottom d-block d-lg-none">
                <div id="stickymob">
                   <div class="row stickybtn">
-                     <a class="col stickycall text-center stickycol stickybdr" href="tel:+91-9136698816">
+                     <a class="col stickycall text-center stickycol stickybdr" href="tel:+91-8652868765">
                         CALL NOW
                      </a>
                      <a class="col stickyenq text-center stickycol" href="" data-toggle="modal" data-target="#jwmodal">
