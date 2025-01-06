@@ -34,7 +34,7 @@
    <!-- navigation section -->
    <nav class="navbar navz navbar-expand-lg fixed-top" id="scrollspynav">
       <a class="navbar-brand" href="./">
-         <img class="logo1" src="assets/images/toutle-space-2.png" alt="Toutle Space  " title="Toutle Space  Logo">
+         <img class="logo1" src="assets/images/toutle-space-4.png" alt="Toutle Space  " title="Toutle Space  Logo">
       </a>
 
       <a class="navbar-toggler custnav" data-toggle="collapse" data-target="#navbarcollapse"
