@@ -16,7 +16,7 @@
 
   <meta name="robots" content="noindex,nofollow">
   <meta charset="UTF-8">
-  <link rel="icon" type="image/png" href="assets/images/favicon.png">
+  <link rel="icon" type="image/png" href="assets/images/favicon2.png">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="Toutle Space Mulund West">
@@ -40,7 +40,7 @@
   <!--privacy policy navbar-->
   <nav class="navbar navz navbar-expand-lg fixed-top" id="scrollspynav">
     <a class="navbar-brand" href="./">
-      <img class="logo1" src="./assets/images/toutle-space-2.png" alt="co working space in Malad West"
+      <img class="logo1" src="./assets/images/toutle-space-4.png" alt="co working space in Malad West"
         title="co working space in Goregaon West">
     </a>
 

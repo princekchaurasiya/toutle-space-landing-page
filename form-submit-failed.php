@@ -16,7 +16,7 @@
 
   <meta name="robots" content="noindex,nofollow">
   <meta charset="UTF-8">
-  <link rel="icon" type="image/png" href="assets/images/favicon.png">
+  <link rel="icon" type="image/png" href="assets/images/favicon2.png">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="Co Working Space in Mumbai">
@@ -40,7 +40,7 @@
   <!--form submit failed navbar-->
   <nav class="navbar navz navbar-expand-lg fixed-top" id="scrollspynav">
     <a class="navbar-brand" href="./">
-      <img class="logo1" src="assets/images/toutle-space-2.png" alt="co working space in Malad West"
+      <img class="logo1" src="assets/images/toutle-space-4.png" alt="co working space in Malad West"
         title="co working space in Goregaon West">
     </a>
 
@@ -66,7 +66,7 @@
           </p>
 
           <h3 class="pb-5">
-            <a class="otherpagenumlink" href="tel:+91-9136698816"><span class="icon-col"></span>+91-9136698816</a>
+            <a class="otherpagenumlink" href="tel:+91-8652868765"><span class="icon-col"></span>+91-8652868765</a>
           </h3>
 
           <a href="./" class="btn btn-custom">GO BACK TO HOME PAGE</a>
@@ -117,7 +117,7 @@
         <div class="fixed-bottom d-block d-lg-none">
           <div id="stickymob">
             <div class="row stickybtn">
-              <a class="col stickycall text-center stickycol stickybdr" href="tel:+91-9136698816">
+              <a class="col stickycall text-center stickycol stickybdr" href="tel:+91-8652868765">
                 CALL NOW
               </a>
               <a class="col stickyenq text-center stickycol" href="" data-toggle="modal" data-target="#jwmodal">
